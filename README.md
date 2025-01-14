@@ -1,7 +1,7 @@
 ![Cover Photo](https://media.licdn.com/dms/image/v2/D4E16AQGOWYGK8H6I6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735306831076?e=1742428800&v=beta&t=EPIFbekbUCSt8gFoddxbZgHAd60StwexjcdWweJ1n0I)  
 
 ### Hi there 👋, my name is Sajib Chandra Saha  
-#### I am a Web Developer  
+#### I am a Full Stack Web Developer  
 #### Connect with me!  
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sojib.saha.942145/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahasojib0155@gmail.com)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajib-chandra-saha-59457323a) 
