@@ -1,4 +1,5 @@
-![Cover Photo](https://media.licdn.com/dms/image/D4E16AQGOWYGK8H6I6A/profile-displaybackgroundimage-shrink_350_1400/0/1735306831076?e=1742428800&v=beta&t=EPIFbekbUCSt8gFoddxbZgHAd60StwexjcdWweJ1n0I)  
+![Cover Photo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/407939686/original/37f0d94f4b8d7a39cd8cb98c69f3147ac88848ec/create-custom-next-js-websites-for-you.png)  
+
 
 ### Hi there 👋, my name is Sajib Chandra Saha  
 
