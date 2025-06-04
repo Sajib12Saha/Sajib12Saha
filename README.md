@@ -1,4 +1,4 @@
-![Cover Photo](https://sajibsaha-0155.vercel.app/x-meta.svg)  
+![Cover Photo](https://sajibsaha-0155.vercel.app/x-meta.png)  
 
 ### Hi there 👋, my name is Sajib Chandra Saha  
 #### I am a Full Stack Web Developer  
