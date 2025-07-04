@@ -1,5 +1,4 @@
-[![Cover Photo]
-(https://zedifbtvlhwkygqwmuqk.supabase.co/storage/v1/object/public/images/1750134244693-Full%20Stack%20(1).png)]
+[![Cover Photo](https://zedifbtvlhwkygqwmuqk.supabase.co/storage/v1/object/public/images/1750134244693-Full%20Stack%20(1).png)]
 
 ### Hi there 👋, my name is Sajib Chandra Saha  
 #### I am a Full Stack Web Developer  
