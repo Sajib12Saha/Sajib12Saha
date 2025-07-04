@@ -1,4 +1,5 @@
-![Cover Photo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/407939686/original/41ed3415d1cf8acfde9af562fdce1f837338892b/create-custom-next-js-websites-for-you.png)
+![Cover Photo]
+(https://zedifbtvlhwkygqwmuqk.supabase.co/storage/v1/object/public/images/1750134244693-Full%20Stack%20(1).png)
 
 ### Hi there 👋, my name is Sajib Chandra Saha  
 #### I am a Full Stack Web Developer  
